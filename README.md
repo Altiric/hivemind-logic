@@ -1,0 +1,2 @@
+# hivemind-logic
+Public Access
